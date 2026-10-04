@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo main sin resolver al que se hace referencia en la función "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Aleja\Desktop\UPC-Multimedia 26-27\septiembre-enero\PROGRAMACION 2\PARCIAÑ\ortegaO_classes\x64\Debug\ortegaO_classes.exe : fatal error LNK1120: 1 externos sin resolver
